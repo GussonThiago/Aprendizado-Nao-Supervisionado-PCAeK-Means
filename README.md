@@ -1,9 +1,9 @@
-# Classificação
+# Aprendizado Não Supervisionado
 
- Classificação usou os dados do [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
+Esse estudo de caso real (Grosse Pointe Associetes and Tha "Microvans") está disponível no livro "Modern Marketing Research: Concepts, Methods and Cases".
 
 
- Nesse projeto de classificação usamos as bibliotecas Scikit Learn e XGBoost para analisar as informações de empresa que oferece planos de telefone, interne e televisão. Desenvolvemos uma solução para prever o CHURN (% de clientes que deixam a empresa em um determinado período).
+Nesse projeto de aprendizado não supervisionado usamos as bibliotecas PCA e K-Means para analisar as informações de empresa que deseja desenvolver um novo carro (Microvan). Desenvolvemos uma segmentação de clientes para compreender os perfis dos clientes e assim projetar uma camapanha de marketing.
  
  Projeto realizado em aula pelo curso do [Lets Data](https://www.letsdata.ai/sobre-nos)
  
